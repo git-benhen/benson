@@ -34,6 +34,6 @@ public class operatordemo {
 			 //== this double equalto is used for comparison
 			 System.out.println(num1==num2);// this will return a boolean-true or false
 			 //if both are equal it will return true otherwise it will return false
-			 
+			 	
 }
 }
